@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **something cool**
 
-- 🌱 I’m currently learning **Spring :)**
+- 🌱 I’m currently learning **Java and Spring :)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/IWasYourTomb?tab=repositories](https://github.com/IWasYourTomb?tab=repositories)
 
