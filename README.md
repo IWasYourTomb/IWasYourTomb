@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Matvey</h1>
-<h3 align="center">Fullstack developer from Russia</h3>
+<h3 align="center">Frontend developer from Russia</h3>
 
-- 💬 You can ask me about **Flutter**
+- 🔭 I’m currently working on **something cool**
+
+- 🌱 I’m currently learning **Spring :)**
+
+- 👨‍💻 All of my projects are available at [https://github.com/IWasYourTomb?tab=repositories](https://github.com/IWasYourTomb?tab=repositories)
+
+- 💬 You can ask me about **anything**
 
 - 📫 How to reach me **wowzik1233@gmail.com**
 
