@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Matvey</h1>
-<h3 align="center">Fullstack developer from Russia</h3>
 <img src="https://github.com/IWasYourTomb/IWasYourTomb/blob/main/image.png"/>
 
 
