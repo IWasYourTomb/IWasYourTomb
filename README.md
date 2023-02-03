@@ -1,4 +1,3 @@
-<img src="https://github.com/IWasYourTomb/IWasYourTomb/blob/main/image.png"/>
 
 
 - 🔭 I’m currently working on **something cool**
