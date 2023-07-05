@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **something cool**
 
-- 🌱 I’m currently learning **Kotlin :)**
+- 🌱 I’m currently learning **Swift :)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/IWasYourTomb?tab=repositories](https://github.com/IWasYourTomb?tab=repositories)
 
