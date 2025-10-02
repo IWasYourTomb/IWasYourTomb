@@ -4,8 +4,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/IWasYourTomb?tab=repositories](https://github.com/IWasYourTomb?tab=repositories)
 
-- 📫 How to reach me **wowzik1233@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/i_was_your_tomb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_was_your_tomb" height="30" width="40" /></a>
