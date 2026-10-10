@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=180&section=header&text=IWasYourTomb&fontSize=52&fontColor=A78BFA&animation=fadeIn&fontAlignY=50&desc=Software%20Developer%20%7C%20Backend%20%26%20Fullstack&descSize=16&descAlignY=75&descColor=8B949E" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=180&section=header&text=IWasYourTomb&fontSize=52&fontColor=A78BFA&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Backend%20%26%20Fullstack&descSize=16&descAlignY=55&descColor=8B949E" width="100%" alt="IWasYourTomb — Software Developer" />
+
 
 <br/>
 
@@ -170,27 +171,6 @@ Building applications with a .NET backend and a modern Vue frontend, with an emp
 <br/><br/>
 
 <img width="95%" src="https://nirzak-streak-stats.vercel.app/?user=IWasYourTomb&hide_border=true&background=0D1117&stroke=30363D&ring=A78BFA&fire=F472B6&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Streak" />
-
-</div>
-
----
-
-## `$ connect`
-
-<div align="center">
-
-<a href="https://github.com/IWasYourTomb">
-<img src="https://img.shields.io/badge/GitHub-IWasYourTomb-0D1117?style=for-the-badge&logo=github&logoColor=A78BFA" />
-</a>
-<a href="https://instagram.com/i_was_your_tomb">
-<img src="https://img.shields.io/badge/Instagram-i__was__your__tomb-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" />
-</a>
-
-<br/><br/>
-
-*Less noise. More signal.*
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=60&section=footer" width="100%" />
 
 </div>
 
