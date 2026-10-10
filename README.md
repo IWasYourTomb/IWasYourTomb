@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=180&section=header&text=IWasYourTomb&fontSize=52&fontColor=A78BFA&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Backend%20%26%20Fullstack&descSize=16&descAlignY=55&descColor=8B949E" width="100%" alt="IWasYourTomb — Software Developer" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=180&section=header&text=IWasYourTomb&fontSize=52&fontColor=A78BFA&animation=fadeIn&fontAlignY=35" width="100%" alt="IWasYourTomb" />
 
 <br/>
 
